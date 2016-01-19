@@ -1,0 +1,13 @@
+{
+  "name": "ng-seed",
+  "description": "A starter project for AngularJS",
+  "version": "1.0.0",
+  "homepage": "https://github.com/daigof/ng-seed",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "angular-ui-router": "~0.2.15",
+    "html5-boilerplate": "~5.2.0"
+  }
+}
